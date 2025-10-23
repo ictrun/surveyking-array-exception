@@ -95,14 +95,12 @@ Authorization: Bearer <admin-token>
   }
 }
 ```
-
-<img width="1500" height="118" alt="image" src="https://github.com/user-attachments/assets/da86ea3e-3ce2-4f3a-adf9-0f084bb01c8c" />
-
+### Frontend Survey Page Crash
 <img width="1075" height="369" alt="image" src="https://github.com/user-attachments/assets/ad637de8-18f3-41f2-933b-e58f463189c6" />
-
+### Error Log
 <img width="1510" height="944" alt="image" src="https://github.com/user-attachments/assets/c9bc3a59-d8e1-46e6-98c3-b76f37fd9dab" />
 
-
+### Frontend Dashboard Crash
 <img width="1124" height="428" alt="image" src="https://github.com/user-attachments/assets/e8a50f54-c6e9-4901-8c89-306a9423c656" />
 
 
